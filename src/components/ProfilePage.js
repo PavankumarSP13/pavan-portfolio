@@ -11,6 +11,9 @@ const images = [
   require('../assets/images/image1.jpg'),
   require('../assets/images/image2.jpg'),
   require('../assets/images/image3.jpg'),
+  require('../assets/images/image4.jpg'),
+  require('../assets/images/image5.jpg'),
+  require('../assets/images/image6.jpg'),
   // Add more images as needed
 ];
 
